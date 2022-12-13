@@ -1,2 +1,3 @@
 name = "ada lovelace"
-print(namee.title())
+print(name.title())
+print(name.upper() + " " + name.lower())
